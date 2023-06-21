@@ -1,2 +1,2 @@
 # BasicBankingApp
-New repository
+This application enables money transfer between customers
